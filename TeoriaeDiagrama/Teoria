@@ -1,0 +1,87 @@
+Resposta Exercicio 3
+Resposta:A()I e II;
+-------------------------------------------------
+Exercicio4
+Resposta:
+Difinição
+while(vsal[(cont-l)] != -l ) 
+
+Instrução:
+cont= cont+l;
+-------------------------------------------------
+
+Exercicio5
+Comandos Iniciais:
+int i=0
+
+Comando de loop
+i++;
+
+Condição 
+(i < quantos)
+
+
+Condição Estabelecida
+(i < quantos)
+(sequencia.lenght() > 0)
+
+
+----------------------------------------
+Exercicio 6
+Comandos Iniciais:
+int i=0
+
+Comando de loop
+i++;
+
+Condição 
+(i < quantos)
+
+
+Condição Estabelecida
+(i < quantos)
+(sequencia.lenght() > 0)
+ 
+
+Quais são os atributos do código?
+private String nome;
+
+Qual o tipo de visibilidade destes atributos?
+privado
+
+Que tipo de dado o método construtor está retornando?
+double
+
+Quais os métodos acessores do código?
+getNome
+getMarcar
+setNome
+setMarcas
+
+Que tipo de método encontramos no código que não faz parte dos acessores?
+armazenarMarca
+--------------------------------------------------------
+Exercicio 07
+
+Obtem o valor digitado  e Retorna o valor gravado
+
+Recebe o valor digitado e grava o valor em uma variavel 
+
+Recebe o valor inteiro e grava ele no this.valor
+
+Recebe o nome digitado e retorna o valor gravado
+---------------------------------------------------------
+
+Exercicio 08
+
+Resposta:
+Opção: B 
+---------------------------------------------------------
+Exercicio 09
+
+doc1 e doc2 não vai imprimir nada.
+---------------------------------------------------------
+Exercicio 10
+
+Resposta:
+Opção: c-(  ) O comando associado ao laço do-while é executado no mínimo uma vez desde que a condição do laço seja verdadeira.
